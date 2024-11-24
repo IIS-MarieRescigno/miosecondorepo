@@ -8,3 +8,4 @@ buongiorno
 - ZARA
 ## metro lilla
 - MARCHE
+- ISTRIA
