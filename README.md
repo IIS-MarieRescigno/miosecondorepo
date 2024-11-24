@@ -5,3 +5,4 @@ buongiorno
 - AFFORI CENTRO
 - DERGANO
 - MACIACCHINI
+- ZARA
